@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+my_venv/
+
+.env
+
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.iml
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Ignore results if it's just generated output
+results/
+
+# Ignore dependency files if using a package manager
+pip-log.txt
+".env" 
+".env" 
